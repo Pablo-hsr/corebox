@@ -9,7 +9,7 @@ source_file = Path('.xinitrc')
 home = Path.home()
 destination_file = home / source_file.name
 
-shutil.move(str(source_file), str(destination_file))
+shutil.copy(str(source_file), str(destination_file))
 
 #configuração do I3
 
