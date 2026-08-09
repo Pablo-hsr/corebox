@@ -67,7 +67,3 @@ Funcional no essencial (X + i3 + barra + terminal + áudio). Ainda faltam:
 - [ ] `network-manager-gnome` — ícone de wifi na bandeja (`nm-applet`)
 - [ ] `wpasupplicant` + firmware da placa wireless, se o wifi não aparecer no `nmtui`
 - [ ] fonte `JetBrainsMono Nerd Font` — ícones da barra
-
-## Licença
-
-Ainda sem licença definida — adicione uma se for compartilhar publicamente.
